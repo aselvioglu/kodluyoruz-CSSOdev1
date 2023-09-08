@@ -1,0 +1,33 @@
+h1{
+
+    color:red;
+    text-align: center;
+    background-color: bisque;
+}
+
+h2{
+
+
+    text-align: center;
+    background-color: antiquewhite;
+    background-size:cover;
+}
+
+.article-parag {
+
+    color:rgb(151, 126, 78);
+    background-color: rgb(224, 219, 213);
+    width: 75%;
+    margin:auto;
+    text-align: center;
+
+}
+
+a {
+
+color:rgb(155, 113, 51);
+text-shadow: 0cap;
+text-align: center;
+
+}
+a:hover{ color:orange}
